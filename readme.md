@@ -10,12 +10,11 @@
 ## <B>UAS SISTEM BASIS DATA</B>
 
 <b>
-Penjelasan Singkat Tentang Project
+Penjelasan Singkat Tentang Project</b>
+<a href="https://drive.google.com/file/d/1qfkGQelkQC8ZUFXi2LVj-isufkof17rf/view?usp=sharing">klik di sini</a> .pdf
 
-<a href="https://drive.google.com/file/d/1qfkGQelkQC8ZUFXi2LVj-isufkof17rf/view?usp=sharing">Klik di sini</a>
-
-Untuk link Vidio
-<a href="#">Klik di sini</a>
+<b>Untuk link Vidio</b>
+<a href="https://youtu.be/uNK7RccUrD0">Klik di sini</a>
 
 <HR>
 <hr>
