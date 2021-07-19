@@ -13,7 +13,7 @@
 Penjelasan Singkat Tentang Project
 
 <a href="
-https://drive.google.com/file/d/1qfkGQelkQC8ZUFXi2LVj-isufkof17rf/view?usp=sharing">Klik di sini</a> (PDF)
+https://drive.google.com/file/d/1qfkGQelkQC8ZUFXi2LVj-isufkof17rf/view?usp=sharing">Klik di sini</a>
 
 Untuk link Vidio
 <a href="#">Klik di sini</a>
